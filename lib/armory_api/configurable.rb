@@ -3,14 +3,16 @@ require 'armory_api/default'
 module ArmoryApi
   module Configurable
     attr_writer :region, :locale
-    attr_accessor :region, :locale
+    attr_accessor :region, :locale, :endpoint, :connection_options, :middleware
 
     class << self
 
       def keys
         @keys ||= [
           :region,
-          :locale
+          :locale,
+          :connection_options,
+          :middleware
         ]
       end
     end
@@ -27,5 +29,13 @@ module ArmoryApi
       self
     end
     alias setup reset!
+
+    def endpoint
+      if region == 'cn'
+        "www.battlenet.com.cn"
+      else
+        "http://#{region}.battle.net"
+      end
+    end
   end
 end
