@@ -1,6 +1,8 @@
+require 'armory_api/configuration'
 require 'armory_api/client'
 
 module ArmoryApi
+  extend Configuration
   class << self
     # Shortcut for ArmoryApi::Client.new
     #
