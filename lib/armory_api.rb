@@ -1,5 +1,6 @@
 require 'armory_api/configuration'
 require 'armory_api/client'
+require 'armory_api/error'
 
 module ArmoryApi
   extend Configuration
@@ -12,3 +13,5 @@ module ArmoryApi
     end
   end
 end
+
+ArmoryApi.reset

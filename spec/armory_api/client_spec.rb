@@ -51,4 +51,24 @@ describe ArmoryApi::Client do
       expect(c.realm).to eq 'Stormrage'
     end
   end
+
+  describe "connection" do
+    after :each do
+      ArmoryApi.reset
+    end
+
+    it "looks like a Farady connection" do
+      c = ArmoryApi::Client.new
+      expect(c.send('connection')).to respond_to(:run_request)
+    end
+  end
+
+  describe "request" do
+    it "encodes the params in the body" do
+      stub_request(:get, 'http://us.battle.net/api/wow/character/realm/name?fields=one,two')
+        .with(params: { fields: 'one,two' })
+      c = ArmoryApi::Client.new
+      c.character('name', 'realm', ['one', 'two'])
+    end
+  end
 end
