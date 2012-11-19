@@ -8,6 +8,10 @@ describe ArmoryApi do
   end
 
   describe ".configure" do
+    after :each do
+      ArmoryApi.reset
+    end
+
     ArmoryApi.options.keys.each do |key|
       it "sets the #{key.to_s.gsub('_', ' ')}" do
         ArmoryApi.configure do |conf|
