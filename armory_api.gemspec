@@ -7,6 +7,7 @@ Gem::Specification.new do |s|
   s.summary = s.description
   s.authors = ['Francesco Ceccon']
   s.email = ['francesco@ceccon.me']
+  s.homepage = 'https://github.com/fracek/armory_api'
   s.platform = Gem::Platform::RUBY
   s.require_path = ['lib']
   s.files = `git ls-files`.split("\n")
