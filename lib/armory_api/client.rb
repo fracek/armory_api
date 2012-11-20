@@ -1,6 +1,7 @@
 require 'faraday'
 require 'uri'
 
+require 'armory_api/client/achievement'
 require 'armory_api/client/character'
 
 module ArmoryApi
@@ -23,6 +24,7 @@ module ArmoryApi
       request(:get, path, params, options)
     end
 
+    include ArmoryApi::Client::Achievement
     include ArmoryApi::Client::Character
    private
     def endpoint
