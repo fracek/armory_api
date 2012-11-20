@@ -3,6 +3,7 @@ require 'uri'
 
 require 'armory_api/client/achievement'
 require 'armory_api/client/character'
+require 'armory_api/client/item'
 
 module ArmoryApi
   class Client
@@ -26,6 +27,7 @@ module ArmoryApi
 
     include ArmoryApi::Client::Achievement
     include ArmoryApi::Client::Character
+    include ArmoryApi::Client::Item
    private
     def endpoint
       "http://#{@region}.battle.net"
