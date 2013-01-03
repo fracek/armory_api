@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.files = ['lib/armory_api.rb']
   s.platform = Gem::Platform::RUBY
 
+  s.add_development_dependency 'rake'
   s.add_development_dependency 'rspec', '~> 2.11.0'
   s.add_development_dependency 'faraday'
 end

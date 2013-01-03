@@ -1,3 +1,5 @@
+require 'helper'
+
 describe ArmoryApi::Client do
   context "with module configuration" do
     before do
