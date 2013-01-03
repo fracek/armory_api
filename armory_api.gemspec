@@ -2,14 +2,25 @@ require File.expand_path('../lib/armory_api/version', __FILE__)
 
 Gem::Specification.new do |s|
   s.name = 'armory_api'
-  s.version = ArmoryApi::Version
-  s.summary = 'Ruby wrapper for the World of Warcraft API'
-  s.description = 'Ruby wrapper for the official World of Warcraft REST APIs'
+  s.version = ArmoryApi::VERSION
+  s.description = 'Wrapper for the World of Warcraft API'
+  s.summary = s.description
   s.authors = ['Francesco Ceccon']
-  s.files = ['lib/armory_api.rb']
+  s.email = ['francesco@ceccon.me']
+  s.homepage = 'https://github.com/fracek/armory_api'
   s.platform = Gem::Platform::RUBY
+  s.require_path = ['lib']
+  s.files = `git ls-files`.split("\n")
 
+  s.add_dependency 'faraday', '~> 0.8'
+  s.add_dependency 'faraday_middleware', '~> 0.8'
+  s.add_dependency 'hashie', '~> 1.2'
+  s.add_dependency 'multi_json', '~> 1.3'
+
+  s.add_development_dependency 'json', '~> 1.7'
   s.add_development_dependency 'rake'
-  s.add_development_dependency 'rspec', '~> 2.11.0'
-  s.add_development_dependency 'faraday'
+  s.add_development_dependency 'rspec'
+  s.add_development_dependency 'webmock'
+  s.add_development_dependency 'simplecov'
+  s.add_development_dependency 'yard'
 end

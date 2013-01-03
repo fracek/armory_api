@@ -1,0 +1,65 @@
+{
+    "armor": 0, 
+    "baseArmor": 0, 
+    "bonusStats": [
+        {
+            "amount": 15, 
+            "reforged": false, 
+            "stat": 51
+        }, 
+        {
+            "amount": 24, 
+            "reforged": false, 
+            "stat": 5
+        }, 
+        {
+            "amount": 22, 
+            "reforged": false, 
+            "stat": 6
+        }, 
+        {
+            "amount": 25, 
+            "reforged": false, 
+            "stat": 7
+        }
+    ], 
+    "buyPrice": 474384, 
+    "containerSlots": 0, 
+    "description": "Property of Finkle Einhorn, Grandmaster Adventurer", 
+    "disenchantingSkillRank": 225, 
+    "displayInfoId": 31265, 
+    "equippable": true, 
+    "hasSockets": false, 
+    "icon": "inv_gizmo_02", 
+    "id": 18803, 
+    "inventoryType": 17, 
+    "isAuctionable": false, 
+    "itemBind": 1, 
+    "itemClass": 2, 
+    "itemLevel": 70, 
+    "itemSource": {
+        "sourceId": 179703, 
+        "sourceType": "GAME_OBJECT_DROP"
+    }, 
+    "itemSpells": [], 
+    "itemSubClass": 5, 
+    "maxCount": 0, 
+    "maxDurability": 120, 
+    "minFactionId": 0, 
+    "minReputation": 0, 
+    "name": "Finkle's Lava Dredger", 
+    "quality": 4, 
+    "requiredLevel": 60, 
+    "requiredSkill": 0, 
+    "requiredSkillRank": 0, 
+    "sellPrice": 94876, 
+    "stackable": 1, 
+    "weaponInfo": {
+        "damage": {
+            "max": 239, 
+            "min": 159
+        }, 
+        "dps": 68.62069, 
+        "weaponSpeed": 2.9
+    }
+}

@@ -1,31 +1,42 @@
-require 'armory_api/api'
-require 'armory_api/configurable'
+require 'faraday'
 require 'uri'
+
+require 'armory_api/client/achievement'
+require 'armory_api/client/character'
+require 'armory_api/client/item'
 
 module ArmoryApi
   class Client
-    include ArmoryApi::API
-    include ArmoryApi::Configurable
+    attr_accessor(*Configuration::VALID_OPTIONS_KEYS)
 
     # Initializes a new Client object
     #
     # @param [Hash] options
     # @return [ArmoryApi::Client]
     def initialize(options={})
-      ArmoryApi::Configurable.keys.each do |k|
-        instance_variable_set(:"@#{k}",
-                      options[k] || ArmoryApi.instance_variable_get(:"@#{k}"))
+      options = ArmoryApi.options.merge(options)
+      Configuration::VALID_OPTIONS_KEYS.each do |key|
+        send("#{key}=", options[key])
       end
     end
 
-    # Perform an HTTP GET request
+    # Performs an HTTP GET request
     def get(path, params={}, options={})
       request(:get, path, params, options)
     end
-   private
 
+    include ArmoryApi::Client::Achievement
+    include ArmoryApi::Client::Character
+    include ArmoryApi::Client::Item
+   private
+    def endpoint
+      "http://#{@region}.battle.net"
+    end
+
+    # TODO: don't make a new connection on each request
     def connection
-      @connection ||= Faraday.new(endpoint, @connection_options.merge(builder: @middleware))
+      @connection = Faraday.new(endpoint,
+                                @connection_options.merge(builder: @middleware))
     end
 
     def request(method, path, params={}, options={})
@@ -33,8 +44,9 @@ module ArmoryApi
       uri = URI(uri) unless uri.respond_to?(:host)
       uri += path
       request_headers = {}
+      params ||= {}
       connection.url_prefix = options[:endpoint] || endpoint
-      response = connection.run_request(method.to_sym, path, nil, request_headers) do |req|
+      res = connection.run_request(method.to_sym, path, nil, request_headers) do |req|
         unless params.empty?
           case req.method
           when :post, :put
@@ -43,9 +55,8 @@ module ArmoryApi
             req.params.update(params)
           end
         end
-        yield req if block_given?
-      end.env
-      response
+      end
+      res.body
     end
   end
 end

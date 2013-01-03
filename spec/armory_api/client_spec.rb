@@ -1,70 +1,74 @@
 require 'helper'
 
 describe ArmoryApi::Client do
-  context "with module configuration" do
-    before do
-      ArmoryApi.configure do |config|
-        ArmoryApi::Configurable.keys.each do |k|
-          config.send("#{k}=", k)
-        end
-      end
+  describe "region" do
+    after :each do
+      ArmoryApi.reset
     end
 
-    after do
-      ArmoryApi.reset!
+    it "defaults to us" do
+      c = ArmoryApi::Client.new
+      expect(c.region).to eq 'us'
     end
 
-    it "inherits the module configuration" do
-      client = ArmoryApi::Client.new
-      ArmoryApi::Configurable.keys.each do |k|
-        expect(client.instance_variable_get(:"@#{k}")).to eq k
-      end
+    it "is settable" do
+      ArmoryApi.region = 'eu'
+      c = ArmoryApi::Client.new
+      expect(c.region).to eq 'eu'
     end
   end
 
-  context "with class configuration" do
-    before do
-      @conf = {
-        region: 'eu',
-        locale: 'en_GB',
-        connection_options: { timeout: 0 },
-        middleware: Proc.new{}
-      }
+  describe "locale" do
+    after :each do
+      ArmoryApi.reset
     end
 
-    context "during initialization" do
-      it "overrides the module configuration" do
-        client = ArmoryApi::Client.new(@conf)
-        ArmoryApi::Configurable.keys.each do |k|
-          expect(client.instance_variable_get(:"@#{k}")).to eq @conf[k]
-        end
-      end
+    it "defaults to en_US" do
+      c = ArmoryApi::Client.new
+      expect(c.locale).to eq 'en_US'
     end
 
-    context "after initialization" do
-      it "overrides the module configuration" do
-        client = ArmoryApi::Client.new
-        client.configure do |config|
-          @conf.each do |k, v|
-            config.send("#{k}=", v)
-          end
-        end
-        ArmoryApi::Configurable.keys.each do |k|
-          expect(client.instance_variable_get(:"@#{k}")).to eq @conf[k]
-        end
-      end
+    it "is settable" do
+      ArmoryApi.locale = 'en_GB'
+      c = ArmoryApi::Client.new
+      expect(c.locale).to eq 'en_GB'
     end
   end
 
-  describe "#connection" do
-    it "looks like faraday connection" do
-      client = ArmoryApi::Client.new
-      conn = client.send(:connection)
-      expect(conn).to respond_to(:run_request)
+  describe "realm" do
+    after :each do
+      ArmoryApi.reset
+    end
+
+    it "defaults to nil" do
+      c = ArmoryApi::Client.new
+      expect(c.realm).to be_nil
+    end
+
+    it "is settable" do
+      ArmoryApi.realm = 'Stormrage'
+      c = ArmoryApi::Client.new
+      expect(c.realm).to eq 'Stormrage'
     end
   end
 
-  describe "#request" do
-    # TODO
+  describe "connection" do
+    after :each do
+      ArmoryApi.reset
+    end
+
+    it "looks like a Farady connection" do
+      c = ArmoryApi::Client.new
+      expect(c.send('connection')).to respond_to(:run_request)
+    end
+  end
+
+  describe "request" do
+    it "encodes the params in the body" do
+      stub_request(:get, 'http://us.battle.net/api/wow/character/realm/name?fields=one,two')
+        .with(params: { fields: 'one,two' })
+      c = ArmoryApi::Client.new
+      c.character('name', 'realm', ['one', 'two'])
+    end
   end
 end
