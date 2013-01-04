@@ -1,5 +1,6 @@
 ArmoryApi
 =========
+[![Build Status](https://travis-ci.org/fracek/armory_api.png?branch=master)](https://travis-ci.org/fracek/armory_api)
 
 Ruby wrapper for the official World of Warcraft REST APIs.
 
