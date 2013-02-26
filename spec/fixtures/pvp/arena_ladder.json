@@ -1,0 +1,4334 @@
+[
+  {
+    "realm": "Frostmane",
+    "ranking": 1,
+    "rating": 2312,
+    "teamsize": 2,
+    "created": "2013-02-13",
+    "name": "AR PRO FTW",
+    "gamesPlayed": 80,
+    "gamesWon": 77,
+    "gamesLost": 3,
+    "sessionGamesPlayed": 132,
+    "sessionGamesWon": 116,
+    "sessionGamesLost": 16,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 16,
+    "members": [
+      {
+        "character": {
+          "name": "Rc",
+          "realm": "Frostmane",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 11,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 9150,
+          "thumbnail": "frostmane/47/82594607-avatar.jpg",
+          "guild": "Twink Cap",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 35,
+        "gamesWon": 35,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 35,
+        "sessionGamesWon": 35,
+        "sessionGamesLost": 0,
+        "personalRating": 2203
+      },
+      {
+        "character": {
+          "name": "Brly",
+          "realm": "Frostmane",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 1,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 9900,
+          "thumbnail": "frostmane/215/80646359-avatar.jpg",
+          "guild": "Twink Cap",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 44,
+        "gamesWon": 41,
+        "gamesLost": 3,
+        "sessionGamesPlayed": 96,
+        "sessionGamesWon": 80,
+        "sessionGamesLost": 16,
+        "personalRating": 2203
+      },
+      {
+        "character": {
+          "name": "Xñ",
+          "realm": "Frostmane",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 0,
+          "level": 70,
+          "achievementPoints": 5405,
+          "thumbnail": "frostmane/104/81731944-avatar.jpg",
+          "guild": "Twink Cap",
+          "spec": {
+            "name": "Protection",
+            "role": "TANK",
+            "backgroundImage": "bg-paladin-protection",
+            "icon": "ability_paladin_shieldofthetemplar",
+            "description": "Uses Holy magic to shield himself and defend allies from attackers.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 35,
+        "gamesWon": 35,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 35,
+        "sessionGamesWon": 35,
+        "sessionGamesLost": 0,
+        "personalRating": 2203
+      },
+      {
+        "character": {
+          "name": "Itsmebichez",
+          "realm": "Frostmane",
+          "battlegroup": "Misery",
+          "class": 11,
+          "race": 22,
+          "gender": 0,
+          "level": 70,
+          "achievementPoints": 6455,
+          "thumbnail": "frostmane/216/67233240-avatar.jpg",
+          "guild": "Twink Cap",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-druid-restoration",
+            "icon": "spell_nature_healingtouch",
+            "description": "Uses heal-over-time Nature spells to keep allies alive.",
+            "order": 3
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 39,
+        "gamesWon": 37,
+        "gamesLost": 2,
+        "sessionGamesPlayed": 54,
+        "sessionGamesWon": 49,
+        "sessionGamesLost": 5,
+        "personalRating": 2168
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 2,
+    "rating": 2298,
+    "teamsize": 2,
+    "created": "2012-12-26",
+    "name": "Pro Setup",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 127,
+    "sessionGamesWon": 111,
+    "sessionGamesLost": 16,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 1,
+    "members": [
+      {
+        "character": {
+          "name": "Shadolol",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 1,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 8210,
+          "thumbnail": "outland/167/80835239-avatar.jpg",
+          "guild": "Bacon Appreciation Club",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 127,
+        "sessionGamesWon": 111,
+        "sessionGamesLost": 16,
+        "personalRating": 2307
+      },
+      {
+        "character": {
+          "name": "Tanganyika",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 11,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 8195,
+          "thumbnail": "outland/229/76197861-avatar.jpg",
+          "guild": "Bacon Appreciation Club",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 127,
+        "sessionGamesWon": 111,
+        "sessionGamesLost": 16,
+        "personalRating": 2307
+      }
+    ]
+  },
+  {
+    "realm": "Frostmane",
+    "ranking": 3,
+    "rating": 2285,
+    "teamsize": 2,
+    "created": "2012-02-15",
+    "name": "Im bad like Jesse James",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 298,
+    "sessionGamesWon": 244,
+    "sessionGamesLost": 54,
+    "lastSessionRanking": 325,
+    "side": "alliance",
+    "currentWeekRanking": 1,
+    "members": [
+      {
+        "character": {
+          "name": "Lxí",
+          "realm": "Frostmane",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 11555,
+          "thumbnail": "frostmane/179/79461043-avatar.jpg",
+          "guild": "Style",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 175,
+        "sessionGamesWon": 163,
+        "sessionGamesLost": 12,
+        "personalRating": 2317
+      },
+      {
+        "character": {
+          "name": "Capma",
+          "realm": "Frostmane",
+          "battlegroup": "Misery",
+          "class": 6,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 8185,
+          "thumbnail": "frostmane/221/71641565-avatar.jpg",
+          "guild": "Style",
+          "spec": {
+            "name": "Frost",
+            "role": "DPS",
+            "backgroundImage": "bg-deathknight-frost",
+            "icon": "spell_deathknight_frostpresence",
+            "description": "An icy harbinger of doom, channeling runic power and delivering vicious weapon strikes.",
+            "order": 1
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 298,
+        "sessionGamesWon": 244,
+        "sessionGamesLost": 54,
+        "personalRating": 2304
+      }
+    ]
+  },
+  {
+    "realm": "Grim Batol",
+    "ranking": 4,
+    "rating": 2253,
+    "teamsize": 2,
+    "created": "2013-02-10",
+    "name": "WTF FOTM",
+    "gamesPlayed": 17,
+    "gamesWon": 17,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 68,
+    "sessionGamesWon": 67,
+    "sessionGamesLost": 1,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 5,
+    "members": [
+      {
+        "character": {
+          "name": "Vortexqt",
+          "realm": "Grim Batol",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 7,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 5965,
+          "thumbnail": "grim-batol/113/74700657-avatar.jpg",
+          "guild": "WE BE SQUIRTIN",
+          "spec": {
+            "name": "Discipline",
+            "role": "HEALING",
+            "backgroundImage": "bg-priest-discipline",
+            "icon": "spell_holy_powerwordshield",
+            "description": "Uses magic to shield allies from taking damage as well as heal their wounds.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 17,
+        "gamesWon": 17,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 68,
+        "sessionGamesWon": 67,
+        "sessionGamesLost": 1,
+        "personalRating": 2266
+      },
+      {
+        "character": {
+          "name": "Squirter",
+          "realm": "Grim Batol",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 7950,
+          "thumbnail": "grim-batol/214/62627286-avatar.jpg",
+          "guild": "WE BE SQUIRTIN",
+          "spec": {
+            "name": "Protection",
+            "role": "TANK",
+            "backgroundImage": "bg-paladin-protection",
+            "icon": "ability_paladin_shieldofthetemplar",
+            "description": "Uses Holy magic to shield himself and defend allies from attackers.",
+            "order": 1
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 17,
+        "gamesWon": 17,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 68,
+        "sessionGamesWon": 67,
+        "sessionGamesLost": 1,
+        "personalRating": 2266
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 5,
+    "rating": 2235,
+    "teamsize": 2,
+    "created": "2013-01-28",
+    "name": "Prot Plus Prot Is Op",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 50,
+    "sessionGamesWon": 47,
+    "sessionGamesLost": 3,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 2,
+    "members": [
+      {
+        "character": {
+          "name": "Hallucin",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 3420,
+          "thumbnail": "outland/168/81911208-avatar.jpg",
+          "spec": {
+            "name": "Protection",
+            "role": "TANK",
+            "backgroundImage": "bg-paladin-protection",
+            "icon": "ability_paladin_shieldofthetemplar",
+            "description": "Uses Holy magic to shield himself and defend allies from attackers.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 50,
+        "sessionGamesWon": 47,
+        "sessionGamesLost": 3,
+        "personalRating": 2252
+      },
+      {
+        "character": {
+          "name": "Áw",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 5805,
+          "thumbnail": "outland/185/80763833-avatar.jpg",
+          "spec": {
+            "name": "Protection",
+            "role": "TANK",
+            "backgroundImage": "bg-paladin-protection",
+            "icon": "ability_paladin_shieldofthetemplar",
+            "description": "Uses Holy magic to shield himself and defend allies from attackers.",
+            "order": 1
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 50,
+        "sessionGamesWon": 47,
+        "sessionGamesLost": 3,
+        "personalRating": 2252
+      }
+    ]
+  },
+  {
+    "realm": "Grim Batol",
+    "ranking": 6,
+    "rating": 2232,
+    "teamsize": 2,
+    "created": "2013-01-05",
+    "name": "Tinker Crew",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 119,
+    "sessionGamesWon": 101,
+    "sessionGamesLost": 18,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 3,
+    "members": [
+      {
+        "character": {
+          "name": "Naugrím",
+          "realm": "Grim Batol",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 3,
+          "gender": 0,
+          "level": 70,
+          "achievementPoints": 16445,
+          "thumbnail": "grim-batol/255/81484799-avatar.jpg",
+          "guild": "Mokusoft",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 119,
+        "sessionGamesWon": 101,
+        "sessionGamesLost": 18,
+        "personalRating": 2252
+      },
+      {
+        "character": {
+          "name": "Discapointêd",
+          "realm": "Grim Batol",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 1,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 10800,
+          "thumbnail": "grim-batol/236/81484524-avatar.jpg",
+          "guild": "Mokusoft",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 119,
+        "sessionGamesWon": 101,
+        "sessionGamesLost": 18,
+        "personalRating": 2252
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 7,
+    "rating": 2211,
+    "teamsize": 2,
+    "created": "2013-02-16",
+    "name": "Were Back In Buisness",
+    "gamesPlayed": 37,
+    "gamesWon": 31,
+    "gamesLost": 6,
+    "sessionGamesPlayed": 76,
+    "sessionGamesWon": 65,
+    "sessionGamesLost": 11,
+    "lastSessionRanking": 0,
+    "side": "horde",
+    "currentWeekRanking": 4,
+    "members": [
+      {
+        "character": {
+          "name": "Staliz",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 8,
+          "gender": 0,
+          "level": 70,
+          "achievementPoints": 6290,
+          "thumbnail": "outland/168/79977128-avatar.jpg",
+          "guild": "Wakzz Owning Squad",
+          "spec": {
+            "name": "Elemental",
+            "role": "DPS",
+            "backgroundImage": "bg-shaman-elemental",
+            "icon": "spell_nature_lightning",
+            "description": "A spellcaster who harnesses the destructive forces of nature and the elements.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 37,
+        "gamesWon": 31,
+        "gamesLost": 6,
+        "sessionGamesPlayed": 76,
+        "sessionGamesWon": 65,
+        "sessionGamesLost": 11,
+        "personalRating": 2211
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 8,
+    "rating": 2203,
+    "teamsize": 2,
+    "created": "2013-01-20",
+    "name": "loljusthit",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 222,
+    "sessionGamesWon": 192,
+    "sessionGamesLost": 30,
+    "lastSessionRanking": 0,
+    "side": "horde",
+    "currentWeekRanking": 1,
+    "members": [
+      {
+        "character": {
+          "name": "Microslave",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 4,
+          "race": 5,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 1150,
+          "thumbnail": "outland/6/81923334-avatar.jpg",
+          "guild": "Ministry",
+          "spec": {
+            "name": "Subtlety",
+            "role": "DPS",
+            "backgroundImage": "bg-rogue-subtlety",
+            "icon": "ability_stealth",
+            "description": "A dark stalker who leaps from the shadows to ambush her unsuspecting prey.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 186,
+        "sessionGamesWon": 179,
+        "sessionGamesLost": 7,
+        "personalRating": 2203
+      },
+      {
+        "character": {
+          "name": "Warrioreu",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 1,
+          "race": 2,
+          "gender": 0,
+          "level": 85,
+          "achievementPoints": 940,
+          "thumbnail": "outland/198/81787590-avatar.jpg",
+          "guild": "Ministry",
+          "spec": {
+            "name": "Arms",
+            "role": "DPS",
+            "backgroundImage": "bg-warrior-arms",
+            "icon": "ability_warrior_savageblow",
+            "description": "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 186,
+        "sessionGamesWon": 179,
+        "sessionGamesLost": 7,
+        "personalRating": 2203
+      }
+    ]
+  },
+  {
+    "realm": "Grim Batol",
+    "ranking": 9,
+    "rating": 2198,
+    "teamsize": 2,
+    "created": "2013-02-02",
+    "name": "boosting acrix",
+    "gamesPlayed": 10,
+    "gamesWon": 10,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 67,
+    "sessionGamesWon": 55,
+    "sessionGamesLost": 12,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 6,
+    "members": [
+      {
+        "character": {
+          "name": "Cornflex",
+          "realm": "Grim Batol",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 7,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 7535,
+          "thumbnail": "grim-batol/215/80761047-avatar.jpg",
+          "guild": "Mokusoft",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 10,
+        "gamesWon": 10,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 67,
+        "sessionGamesWon": 55,
+        "sessionGamesLost": 12,
+        "personalRating": 2198
+      },
+      {
+        "character": {
+          "name": "Acrix",
+          "realm": "Grim Batol",
+          "battlegroup": "Misery",
+          "class": 3,
+          "race": 1,
+          "gender": 0,
+          "level": 70,
+          "achievementPoints": 10800,
+          "thumbnail": "grim-batol/36/82219044-avatar.jpg",
+          "guild": "Mokusoft",
+          "spec": {
+            "name": "Beast Mastery",
+            "role": "DPS",
+            "backgroundImage": "bg-hunter-beastmaster",
+            "icon": "ability_hunter_bestialdiscipline",
+            "description": "A master of the wild who can tame a wide variety of beasts to assist him in combat.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 10,
+        "gamesWon": 10,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 67,
+        "sessionGamesWon": 55,
+        "sessionGamesLost": 12,
+        "personalRating": 2198
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 10,
+    "rating": 2175,
+    "teamsize": 2,
+    "created": "2012-11-24",
+    "name": "noskypedntcare",
+    "gamesPlayed": 3,
+    "gamesWon": 3,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 273,
+    "sessionGamesWon": 230,
+    "sessionGamesLost": 43,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 2,
+    "members": [
+      {
+        "character": {
+          "name": "Jacklinne",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 1,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 6015,
+          "thumbnail": "outland/110/79476590-avatar.jpg",
+          "guild": "LADiators",
+          "spec": {
+            "name": "Arms",
+            "role": "DPS",
+            "backgroundImage": "bg-warrior-arms",
+            "icon": "ability_warrior_savageblow",
+            "description": "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 3,
+        "gamesWon": 3,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 273,
+        "sessionGamesWon": 230,
+        "sessionGamesLost": 43,
+        "personalRating": 2180
+      },
+      {
+        "character": {
+          "name": "Odrareg",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 13960,
+          "thumbnail": "outland/68/42520900-avatar.jpg",
+          "guild": "Nightwatchers",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 67,
+        "sessionGamesWon": 58,
+        "sessionGamesLost": 9,
+        "personalRating": 2049
+      },
+      {
+        "character": {
+          "name": "Loréyo",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 11,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 16055,
+          "thumbnail": "outland/132/80859524-avatar.jpg",
+          "guild": "LADiators",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 18,
+        "sessionGamesWon": 16,
+        "sessionGamesLost": 2,
+        "personalRating": 1904
+      },
+      {
+        "character": {
+          "name": "Isurvivejk",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 11,
+          "race": 4,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 7610,
+          "thumbnail": "outland/167/70868903-avatar.jpg",
+          "guild": "GAMESENSE",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-druid-restoration",
+            "icon": "spell_nature_healingtouch",
+            "description": "Uses heal-over-time Nature spells to keep allies alive.",
+            "order": 3
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 7,
+        "sessionGamesWon": 7,
+        "sessionGamesLost": 0,
+        "personalRating": 1585
+      },
+      {
+        "character": {
+          "name": "Flubbaguette",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 5640,
+          "thumbnail": "outland/128/81629824-avatar.jpg",
+          "guild": "Loopers",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 3,
+        "gamesWon": 3,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 3,
+        "sessionGamesWon": 3,
+        "sessionGamesLost": 0,
+        "personalRating": 1283
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 11,
+    "rating": 2144,
+    "teamsize": 2,
+    "created": "2012-12-21",
+    "name": "Born To Perform",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 99,
+    "sessionGamesWon": 89,
+    "sessionGamesLost": 10,
+    "lastSessionRanking": 0,
+    "side": "horde",
+    "currentWeekRanking": 0,
+    "members": [
+      {
+        "character": {
+          "name": "Thrar",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 4,
+          "race": 2,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 7975,
+          "thumbnail": "outland/218/81025498-avatar.jpg",
+          "guild": "TBC Capped Horde",
+          "spec": {
+            "name": "Combat",
+            "role": "DPS",
+            "backgroundImage": "bg-rogue-combat",
+            "icon": "ability_backstab",
+            "description": "A swashbuckler who uses agility and guile to stand toe-to-toe with enemies.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 6,
+        "sessionGamesWon": 3,
+        "sessionGamesLost": 3,
+        "personalRating": 1242
+      },
+      {
+        "character": {
+          "name": "Ödín",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 3,
+          "race": 10,
+          "gender": 0,
+          "level": 70,
+          "achievementPoints": 7090,
+          "thumbnail": "outland/207/80506063-avatar.jpg",
+          "guild": "TBC Capped Horde",
+          "spec": {
+            "name": "Beast Mastery",
+            "role": "DPS",
+            "backgroundImage": "bg-hunter-beastmaster",
+            "icon": "ability_hunter_bestialdiscipline",
+            "description": "A master of the wild who can tame a wide variety of beasts to assist him in combat.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 8,
+        "sessionGamesWon": 3,
+        "sessionGamesLost": 5,
+        "personalRating": 1240
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 12,
+    "rating": 2140,
+    "teamsize": 2,
+    "created": "2012-11-22",
+    "name": "A er noob",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 142,
+    "sessionGamesWon": 130,
+    "sessionGamesLost": 12,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 4,
+    "members": [
+      {
+        "character": {
+          "name": "Shócknórriz",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 11,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 12075,
+          "thumbnail": "outland/162/75421602-avatar.jpg",
+          "guild": "Two Inches Buffed",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 142,
+        "sessionGamesWon": 130,
+        "sessionGamesLost": 12,
+        "personalRating": 2140
+      },
+      {
+        "character": {
+          "name": "Crówley",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 9650,
+          "thumbnail": "outland/92/75233372-avatar.jpg",
+          "guild": "Two Inches Buffed",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 127,
+        "sessionGamesWon": 119,
+        "sessionGamesLost": 8,
+        "personalRating": 2140
+      },
+      {
+        "character": {
+          "name": "Hildurlol",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 4,
+          "race": 1,
+          "gender": 1,
+          "level": 85,
+          "achievementPoints": 9650,
+          "thumbnail": "outland/55/75745847-avatar.jpg",
+          "guild": "GET TO MY LVL DAWG",
+          "spec": {
+            "name": "Combat",
+            "role": "DPS",
+            "backgroundImage": "bg-rogue-combat",
+            "icon": "ability_backstab",
+            "description": "A swashbuckler who uses agility and guile to stand toe-to-toe with enemies.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 0,
+        "sessionGamesWon": 0,
+        "sessionGamesLost": 0,
+        "personalRating": 1000
+      },
+      {
+        "character": {
+          "name": "Lucenzo",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 9,
+          "race": 1,
+          "gender": 1,
+          "level": 86,
+          "achievementPoints": 9525,
+          "thumbnail": "outland/144/75914896-avatar.jpg",
+          "spec": {
+            "name": "Demonology",
+            "role": "DPS",
+            "backgroundImage": "bg-warlock-demonology",
+            "icon": "spell_shadow_metamorphosis",
+            "description": "A master of demonic magic who transforms into a demon and compels demonic powers to aid him.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 0,
+        "sessionGamesWon": 0,
+        "sessionGamesLost": 0,
+        "personalRating": 1000
+      }
+    ]
+  },
+  {
+    "realm": "Frostmane",
+    "ranking": 13,
+    "rating": 2137,
+    "teamsize": 2,
+    "created": "2012-10-05",
+    "name": "Ecnahne",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 152,
+    "sessionGamesWon": 131,
+    "sessionGamesLost": 21,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 5,
+    "members": [
+      {
+        "character": {
+          "name": "Lentor",
+          "realm": "Frostmane",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 7955,
+          "thumbnail": "frostmane/22/78129430-avatar.jpg",
+          "guild": "Memento Mori",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 152,
+        "sessionGamesWon": 131,
+        "sessionGamesLost": 21,
+        "personalRating": 2207
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 14,
+    "rating": 2136,
+    "teamsize": 2,
+    "created": "2013-02-12",
+    "name": "VirginCleave",
+    "gamesPlayed": 44,
+    "gamesWon": 42,
+    "gamesLost": 2,
+    "sessionGamesPlayed": 362,
+    "sessionGamesWon": 358,
+    "sessionGamesLost": 4,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 3,
+    "members": [
+      {
+        "character": {
+          "name": "Complexityz",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 1,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 7640,
+          "thumbnail": "outland/206/79841486-avatar.jpg",
+          "guild": "PvPremade",
+          "spec": {
+            "name": "Arms",
+            "role": "DPS",
+            "backgroundImage": "bg-warrior-arms",
+            "icon": "ability_warrior_savageblow",
+            "description": "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 44,
+        "gamesWon": 42,
+        "gamesLost": 2,
+        "sessionGamesPlayed": 363,
+        "sessionGamesWon": 358,
+        "sessionGamesLost": 5,
+        "personalRating": 2116
+      },
+      {
+        "character": {
+          "name": "Senonax",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 2015,
+          "thumbnail": "outland/139/80348555-avatar.jpg",
+          "guild": "Ask",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 1,
+        "gamesWon": 1,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 1,
+        "sessionGamesWon": 1,
+        "sessionGamesLost": 0,
+        "personalRating": 1092
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 15,
+    "rating": 2127,
+    "teamsize": 2,
+    "created": "2012-12-24",
+    "name": "awdasd",
+    "gamesPlayed": 8,
+    "gamesWon": 8,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 190,
+    "sessionGamesWon": 158,
+    "sessionGamesLost": 32,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 7,
+    "members": [
+      {
+        "character": {
+          "name": "Sténsture",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 14060,
+          "thumbnail": "outland/147/68498835-avatar.jpg",
+          "guild": "TRYHARDS",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 8,
+        "gamesWon": 8,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 127,
+        "sessionGamesWon": 111,
+        "sessionGamesLost": 16,
+        "personalRating": 2146
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 16,
+    "rating": 2123,
+    "teamsize": 2,
+    "created": "2013-01-11",
+    "name": "yexz",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 167,
+    "sessionGamesWon": 151,
+    "sessionGamesLost": 16,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 6,
+    "members": [
+      {
+        "character": {
+          "name": "Patronum",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 7375,
+          "thumbnail": "outland/145/69762705-avatar.jpg",
+          "guild": "LADiators",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 167,
+        "sessionGamesWon": 151,
+        "sessionGamesLost": 16,
+        "personalRating": 2141
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 17,
+    "rating": 2110,
+    "teamsize": 2,
+    "created": "2012-12-21",
+    "name": "omtenta inc",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 82,
+    "sessionGamesWon": 77,
+    "sessionGamesLost": 5,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 8,
+    "members": [
+      {
+        "character": {
+          "name": "Dverik",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 11,
+          "race": 4,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 12505,
+          "thumbnail": "outland/247/75516663-avatar.jpg",
+          "guild": "HES DEAD ON MY SCREEN",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-druid-restoration",
+            "icon": "spell_nature_healingtouch",
+            "description": "Uses heal-over-time Nature spells to keep allies alive.",
+            "order": 3
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 82,
+        "sessionGamesWon": 77,
+        "sessionGamesLost": 5,
+        "personalRating": 2110
+      },
+      {
+        "character": {
+          "name": "Koboqtx",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 1,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 7790,
+          "thumbnail": "outland/11/75601675-avatar.jpg",
+          "guild": "Cupcake Club",
+          "spec": {
+            "name": "Arms",
+            "role": "DPS",
+            "backgroundImage": "bg-warrior-arms",
+            "icon": "ability_warrior_savageblow",
+            "description": "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 18,
+        "sessionGamesWon": 17,
+        "sessionGamesLost": 1,
+        "personalRating": 1911
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 18,
+    "rating": 2103,
+    "teamsize": 2,
+    "created": "2012-11-22",
+    "name": "Night Elf Mohawk",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 86,
+    "sessionGamesWon": 75,
+    "sessionGamesLost": 11,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 9,
+    "members": [
+      {
+        "character": {
+          "name": "Hextasy",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 11,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 5930,
+          "thumbnail": "outland/95/67082591-avatar.jpg",
+          "guild": "Assassins of Amadeous",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 86,
+        "sessionGamesWon": 75,
+        "sessionGamesLost": 11,
+        "personalRating": 2103
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 19,
+    "rating": 2088,
+    "teamsize": 2,
+    "created": "2013-01-30",
+    "name": "ghee",
+    "gamesPlayed": 14,
+    "gamesWon": 13,
+    "gamesLost": 1,
+    "sessionGamesPlayed": 108,
+    "sessionGamesWon": 97,
+    "sessionGamesLost": 11,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 13,
+    "members": [
+      {
+        "character": {
+          "name": "Fewae",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 1,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 7525,
+          "thumbnail": "outland/83/82140243-avatar.jpg",
+          "spec": {
+            "name": "Arms",
+            "role": "DPS",
+            "backgroundImage": "bg-warrior-arms",
+            "icon": "ability_warrior_savageblow",
+            "description": "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 14,
+        "gamesWon": 13,
+        "gamesLost": 1,
+        "sessionGamesPlayed": 108,
+        "sessionGamesWon": 97,
+        "sessionGamesLost": 11,
+        "personalRating": 2093
+      },
+      {
+        "character": {
+          "name": "Kalaxý",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 3,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 8665,
+          "thumbnail": "outland/37/82132517-avatar.jpg",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 6,
+        "gamesWon": 6,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 15,
+        "sessionGamesWon": 15,
+        "sessionGamesLost": 0,
+        "personalRating": 1878
+      },
+      {
+        "character": {
+          "name": "Shadyshiftin",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 11,
+          "race": 4,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 9660,
+          "thumbnail": "outland/40/80806952-avatar.jpg",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-druid-restoration",
+            "icon": "spell_nature_healingtouch",
+            "description": "Uses heal-over-time Nature spells to keep allies alive.",
+            "order": 3
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 12,
+        "sessionGamesWon": 11,
+        "sessionGamesLost": 1,
+        "personalRating": 1052
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 20,
+    "rating": 2084,
+    "teamsize": 2,
+    "created": "2013-01-03",
+    "name": "shadz comp",
+    "gamesPlayed": 2,
+    "gamesWon": 1,
+    "gamesLost": 1,
+    "sessionGamesPlayed": 123,
+    "sessionGamesWon": 99,
+    "sessionGamesLost": 24,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 7,
+    "members": [
+      {
+        "character": {
+          "name": "Tryhardsxd",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 3,
+          "gender": 0,
+          "level": 70,
+          "achievementPoints": 10840,
+          "thumbnail": "outland/39/81062695-avatar.jpg",
+          "guild": "TRYHARDS",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 2,
+        "gamesWon": 1,
+        "gamesLost": 1,
+        "sessionGamesPlayed": 56,
+        "sessionGamesWon": 46,
+        "sessionGamesLost": 10,
+        "personalRating": 2086
+      },
+      {
+        "character": {
+          "name": "Shadzey",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 7,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 9300,
+          "thumbnail": "outland/148/70097556-avatar.jpg",
+          "guild": "TRYHARDS",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 2,
+        "gamesWon": 1,
+        "gamesLost": 1,
+        "sessionGamesPlayed": 56,
+        "sessionGamesWon": 46,
+        "sessionGamesLost": 10,
+        "personalRating": 2086
+      }
+    ]
+  },
+  {
+    "realm": "Grim Batol",
+    "ranking": 21,
+    "rating": 2083,
+    "teamsize": 2,
+    "created": "2013-01-05",
+    "name": "Norskefaen",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 68,
+    "sessionGamesWon": 48,
+    "sessionGamesLost": 20,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 8,
+    "members": [
+      {
+        "character": {
+          "name": "Kameltåa",
+          "realm": "Grim Batol",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 3,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 8415,
+          "thumbnail": "grim-batol/245/81297909-avatar.jpg",
+          "guild": "Ancient Twinks",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 38,
+        "sessionGamesWon": 27,
+        "sessionGamesLost": 11,
+        "personalRating": 2063
+      }
+    ]
+  },
+  {
+    "realm": "Aerie Peak",
+    "ranking": 22,
+    "rating": 2071,
+    "teamsize": 2,
+    "created": "2013-01-31",
+    "name": "Soul to Squeeze",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 197,
+    "sessionGamesWon": 132,
+    "sessionGamesLost": 65,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 1,
+    "members": [
+      {
+        "character": {
+          "name": "Tidefury",
+          "realm": "Aerie Peak",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 11,
+          "gender": 1,
+          "level": 80,
+          "achievementPoints": 8680,
+          "thumbnail": "aerie-peak/128/80692352-avatar.jpg",
+          "guild": "Old Gods",
+          "spec": {
+            "name": "Enhancement",
+            "role": "DPS",
+            "backgroundImage": "bg-shaman-enhancement",
+            "icon": "spell_shaman_improvedstormstrike",
+            "description": "A totemic warrior who strikes foes with weapons imbued with elemental power.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 194,
+        "sessionGamesWon": 132,
+        "sessionGamesLost": 62,
+        "personalRating": 2071
+      },
+      {
+        "character": {
+          "name": "Móby",
+          "realm": "Aerie Peak",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 7,
+          "gender": 0,
+          "level": 80,
+          "achievementPoints": 6960,
+          "thumbnail": "aerie-peak/123/79650427-avatar.jpg",
+          "guild": "Old Gods",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 197,
+        "sessionGamesWon": 132,
+        "sessionGamesLost": 65,
+        "personalRating": 2071
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 22,
+    "rating": 2071,
+    "teamsize": 2,
+    "created": "2012-12-29",
+    "name": "hunder zeroo",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 109,
+    "sessionGamesWon": 98,
+    "sessionGamesLost": 11,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 10,
+    "members": [
+      {
+        "character": {
+          "name": "Louiss",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 11,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 9390,
+          "thumbnail": "outland/148/81048724-avatar.jpg",
+          "guild": "LADiators",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 109,
+        "sessionGamesWon": 98,
+        "sessionGamesLost": 11,
+        "personalRating": 2071
+      },
+      {
+        "character": {
+          "name": "Smokelord",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 4,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 7295,
+          "thumbnail": "outland/226/81869026-avatar.jpg",
+          "spec": {
+            "name": "Subtlety",
+            "role": "DPS",
+            "backgroundImage": "bg-rogue-subtlety",
+            "icon": "ability_stealth",
+            "description": "A dark stalker who leaps from the shadows to ambush her unsuspecting prey.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 7,
+        "sessionGamesWon": 6,
+        "sessionGamesLost": 1,
+        "personalRating": 1512
+      },
+      {
+        "character": {
+          "name": "Bornwildx",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 11,
+          "race": 4,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 8005,
+          "thumbnail": "outland/132/80955268-avatar.jpg",
+          "guild": "LADiators",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-druid-restoration",
+            "icon": "spell_nature_healingtouch",
+            "description": "Uses heal-over-time Nature spells to keep allies alive.",
+            "order": 3
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 4,
+        "sessionGamesWon": 3,
+        "sessionGamesLost": 1,
+        "personalRating": 1277
+      }
+    ]
+  },
+  {
+    "realm": "Frostmane",
+    "ranking": 24,
+    "rating": 2070,
+    "teamsize": 2,
+    "created": "2013-01-03",
+    "name": "brunkar ye dats right",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 97,
+    "sessionGamesWon": 85,
+    "sessionGamesLost": 12,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 11,
+    "members": [
+      {
+        "character": {
+          "name": "Dromze",
+          "realm": "Frostmane",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 11,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 4960,
+          "thumbnail": "frostmane/107/75737451-avatar.jpg",
+          "guild": "Burning Down The House",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 97,
+        "sessionGamesWon": 85,
+        "sessionGamesLost": 12,
+        "personalRating": 2070
+      },
+      {
+        "character": {
+          "name": "Onéshót",
+          "realm": "Frostmane",
+          "battlegroup": "Misery",
+          "class": 8,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 11795,
+          "thumbnail": "frostmane/195/75023811-avatar.jpg",
+          "guild": "Enochian",
+          "spec": {
+            "name": "Arcane",
+            "role": "DPS",
+            "backgroundImage": "bg-mage-arcane",
+            "icon": "spell_holy_magicalsentry",
+            "description": "Manipulate the arcane, destroying enemies with overwhelming power.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 1,
+        "sessionGamesWon": 1,
+        "sessionGamesLost": 0,
+        "personalRating": 1095
+      }
+    ]
+  },
+  {
+    "realm": "Eonar",
+    "ranking": 25,
+    "rating": 2066,
+    "teamsize": 2,
+    "created": "2012-11-03",
+    "name": "kurac picka",
+    "gamesPlayed": 4,
+    "gamesWon": 3,
+    "gamesLost": 1,
+    "sessionGamesPlayed": 225,
+    "sessionGamesWon": 146,
+    "sessionGamesLost": 79,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 1,
+    "members": [
+      {
+        "character": {
+          "name": "Smalltoé",
+          "realm": "Eonar",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 7,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 4930,
+          "thumbnail": "eonar/139/82025099-avatar.jpg",
+          "guild": "OPS I CRIT MY PANTS",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 44,
+        "sessionGamesWon": 38,
+        "sessionGamesLost": 6,
+        "personalRating": 2126
+      },
+      {
+        "character": {
+          "name": "Zverkaa",
+          "realm": "Eonar",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 1,
+          "level": 73,
+          "achievementPoints": 12920,
+          "thumbnail": "eonar/38/81443366-avatar.jpg",
+          "guild": "OPS I CRIT MY PANTS",
+          "spec": {
+            "name": "Protection",
+            "role": "TANK",
+            "backgroundImage": "bg-paladin-protection",
+            "icon": "ability_paladin_shieldofthetemplar",
+            "description": "Uses Holy magic to shield himself and defend allies from attackers.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 4,
+        "gamesWon": 3,
+        "gamesLost": 1,
+        "sessionGamesPlayed": 128,
+        "sessionGamesWon": 92,
+        "sessionGamesLost": 36,
+        "personalRating": 2066
+      },
+      {
+        "character": {
+          "name": "Évangelíne",
+          "realm": "Eonar",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 4,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 5260,
+          "thumbnail": "eonar/230/81528806-avatar.jpg",
+          "guild": "Matris Virum",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 4,
+        "gamesWon": 3,
+        "gamesLost": 1,
+        "sessionGamesPlayed": 4,
+        "sessionGamesWon": 3,
+        "sessionGamesLost": 1,
+        "personalRating": 1280
+      },
+      {
+        "character": {
+          "name": "Xishamy",
+          "realm": "Eonar",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 11,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 12920,
+          "thumbnail": "eonar/37/79436581-avatar.jpg",
+          "guild": "OPS I CRIT MY PANTS",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 0,
+        "sessionGamesWon": 0,
+        "sessionGamesLost": 0,
+        "personalRating": 1000
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 25,
+    "rating": 2066,
+    "teamsize": 2,
+    "created": "2013-02-19",
+    "name": "retards rank one",
+    "gamesPlayed": 40,
+    "gamesWon": 32,
+    "gamesLost": 8,
+    "sessionGamesPlayed": 72,
+    "sessionGamesWon": 61,
+    "sessionGamesLost": 11,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 10,
+    "members": [
+      {
+        "character": {
+          "name": "Mãgë",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 4,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 5390,
+          "thumbnail": "outland/69/75634757-avatar.jpg",
+          "guild": "Bacon Appreciation Club",
+          "spec": {
+            "name": "Discipline",
+            "role": "HEALING",
+            "backgroundImage": "bg-priest-discipline",
+            "icon": "spell_holy_powerwordshield",
+            "description": "Uses magic to shield allies from taking damage as well as heal their wounds.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 0,
+        "sessionGamesWon": 0,
+        "sessionGamesLost": 0,
+        "personalRating": 1000
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 27,
+    "rating": 2061,
+    "teamsize": 2,
+    "created": "2012-12-27",
+    "name": "Pay for my internet pls",
+    "gamesPlayed": 5,
+    "gamesWon": 4,
+    "gamesLost": 1,
+    "sessionGamesPlayed": 186,
+    "sessionGamesWon": 157,
+    "sessionGamesLost": 29,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 12,
+    "members": [
+      {
+        "character": {
+          "name": "Matuuqt",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 9860,
+          "thumbnail": "outland/173/51383725-avatar.jpg",
+          "guild": "Hüljatud",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 5,
+        "gamesWon": 4,
+        "gamesLost": 1,
+        "sessionGamesPlayed": 186,
+        "sessionGamesWon": 157,
+        "sessionGamesLost": 29,
+        "personalRating": 2072
+      },
+      {
+        "character": {
+          "name": "Kauksi",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 1,
+          "race": 1,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 8575,
+          "thumbnail": "outland/127/73120895-avatar.jpg",
+          "guild": "GAMESENSE",
+          "spec": {
+            "name": "Arms",
+            "role": "DPS",
+            "backgroundImage": "bg-warrior-arms",
+            "icon": "ability_warrior_savageblow",
+            "description": "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 40,
+        "sessionGamesWon": 34,
+        "sessionGamesLost": 6,
+        "personalRating": 1937
+      },
+      {
+        "character": {
+          "name": "Ntundi",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 9,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 13410,
+          "thumbnail": "outland/226/74682338-avatar.jpg",
+          "guild": "ßlacklisteÐ",
+          "spec": {
+            "name": "Affliction",
+            "role": "DPS",
+            "backgroundImage": "bg-warlock-affliction",
+            "icon": "spell_shadow_deathcoil",
+            "description": "A master of shadow magic who specializes in drains and damage-over-time spells.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 5,
+        "gamesWon": 4,
+        "gamesLost": 1,
+        "sessionGamesPlayed": 5,
+        "sessionGamesWon": 4,
+        "sessionGamesLost": 1,
+        "personalRating": 1368
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 28,
+    "rating": 2060,
+    "teamsize": 2,
+    "created": "2013-01-13",
+    "name": "magepriest",
+    "gamesPlayed": 37,
+    "gamesWon": 30,
+    "gamesLost": 7,
+    "sessionGamesPlayed": 232,
+    "sessionGamesWon": 156,
+    "sessionGamesLost": 76,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 2,
+    "members": [
+      {
+        "character": {
+          "name": "Donmáge",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 8,
+          "race": 1,
+          "gender": 0,
+          "level": 84,
+          "achievementPoints": 5075,
+          "thumbnail": "outland/171/81529771-avatar.jpg",
+          "guild": "Excellence",
+          "spec": {
+            "name": "Frost",
+            "role": "DPS",
+            "backgroundImage": "bg-mage-frost",
+            "icon": "spell_frost_frostbolt02",
+            "description": "Freezes enemies in their tracks and shatters them with Frost magic.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 37,
+        "gamesWon": 30,
+        "gamesLost": 7,
+        "sessionGamesPlayed": 232,
+        "sessionGamesWon": 156,
+        "sessionGamesLost": 76,
+        "personalRating": 2060
+      },
+      {
+        "character": {
+          "name": "Dovâhkiin",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 4,
+          "race": 1,
+          "gender": 1,
+          "level": 84,
+          "achievementPoints": 3095,
+          "thumbnail": "outland/211/81740755-avatar.jpg",
+          "guild": "Dragonskin",
+          "spec": {
+            "name": "Assassination",
+            "role": "DPS",
+            "backgroundImage": "bg-rogue-assassination",
+            "icon": "ability_rogue_eviscerate",
+            "description": "A deadly master of poisons who dispatches victims with vicious dagger strikes.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 37,
+        "gamesWon": 30,
+        "gamesLost": 7,
+        "sessionGamesPlayed": 206,
+        "sessionGamesWon": 145,
+        "sessionGamesLost": 61,
+        "personalRating": 2060
+      },
+      {
+        "character": {
+          "name": "Donpríest",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 1,
+          "gender": 0,
+          "level": 80,
+          "achievementPoints": 4665,
+          "thumbnail": "outland/67/81529411-avatar.jpg",
+          "guild": "Made in Britain",
+          "spec": {
+            "name": "Discipline",
+            "role": "HEALING",
+            "backgroundImage": "bg-priest-discipline",
+            "icon": "spell_holy_powerwordshield",
+            "description": "Uses magic to shield allies from taking damage as well as heal their wounds.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 20,
+        "sessionGamesWon": 10,
+        "sessionGamesLost": 10,
+        "personalRating": 954
+      }
+    ]
+  },
+  {
+    "realm": "Frostmane",
+    "ranking": 29,
+    "rating": 2046,
+    "teamsize": 2,
+    "created": "2012-10-03",
+    "name": "testing for glad",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 299,
+    "sessionGamesWon": 218,
+    "sessionGamesLost": 81,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 0,
+    "members": [
+      {
+        "character": {
+          "name": "Demie",
+          "realm": "Frostmane",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 3,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 9375,
+          "thumbnail": "frostmane/44/79280940-avatar.jpg",
+          "guild": "Tauren Took My Gnome",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 41,
+        "sessionGamesWon": 29,
+        "sessionGamesLost": 12,
+        "personalRating": 1739
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 30,
+    "rating": 2042,
+    "teamsize": 2,
+    "created": "2013-01-31",
+    "name": "ShadowLove",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 197,
+    "sessionGamesWon": 121,
+    "sessionGamesLost": 76,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 11,
+    "members": [
+      {
+        "character": {
+          "name": "Adenswagg",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 1,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 4790,
+          "thumbnail": "outland/42/81623594-avatar.jpg",
+          "guild": "Stuck at Seventy",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 197,
+        "sessionGamesWon": 121,
+        "sessionGamesLost": 76,
+        "personalRating": 2042
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 31,
+    "rating": 2037,
+    "teamsize": 2,
+    "created": "2013-02-06",
+    "name": "shesha",
+    "gamesPlayed": 86,
+    "gamesWon": 76,
+    "gamesLost": 10,
+    "sessionGamesPlayed": 338,
+    "sessionGamesWon": 280,
+    "sessionGamesLost": 58,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 29,
+    "members": [
+      {
+        "character": {
+          "name": "Bloodytouch",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 1,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 8550,
+          "thumbnail": "outland/50/82174002-avatar.jpg",
+          "guild": "Bloodbath",
+          "spec": {
+            "name": "Arms",
+            "role": "DPS",
+            "backgroundImage": "bg-warrior-arms",
+            "icon": "ability_warrior_savageblow",
+            "description": "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 87,
+        "gamesWon": 76,
+        "gamesLost": 11,
+        "sessionGamesPlayed": 339,
+        "sessionGamesWon": 280,
+        "sessionGamesLost": 59,
+        "personalRating": 2061
+      },
+      {
+        "character": {
+          "name": "Dreamcacher",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 10055,
+          "thumbnail": "outland/140/80360588-avatar.jpg",
+          "guild": "TRYHARDS",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 34,
+        "gamesWon": 29,
+        "gamesLost": 5,
+        "sessionGamesPlayed": 34,
+        "sessionGamesWon": 29,
+        "sessionGamesLost": 5,
+        "personalRating": 1928
+      },
+      {
+        "character": {
+          "name": "Newattitude",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 11,
+          "race": 4,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 7230,
+          "thumbnail": "outland/223/82259167-avatar.jpg",
+          "guild": "TRYHARDS",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-druid-restoration",
+            "icon": "spell_nature_healingtouch",
+            "description": "Uses heal-over-time Nature spells to keep allies alive.",
+            "order": 3
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 2,
+        "gamesWon": 2,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 2,
+        "sessionGamesWon": 2,
+        "sessionGamesLost": 0,
+        "personalRating": 1182
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 32,
+    "rating": 2035,
+    "teamsize": 2,
+    "created": "2013-01-17",
+    "name": "fifty cent",
+    "gamesPlayed": 22,
+    "gamesWon": 17,
+    "gamesLost": 5,
+    "sessionGamesPlayed": 169,
+    "sessionGamesWon": 139,
+    "sessionGamesLost": 30,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 14,
+    "members": [
+      {
+        "character": {
+          "name": "Defíance",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 1,
+          "race": 1,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 10360,
+          "thumbnail": "outland/32/81716000-avatar.jpg",
+          "guild": "keepin it real",
+          "spec": {
+            "name": "Arms",
+            "role": "DPS",
+            "backgroundImage": "bg-warrior-arms",
+            "icon": "ability_warrior_savageblow",
+            "description": "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 22,
+        "gamesWon": 17,
+        "gamesLost": 5,
+        "sessionGamesPlayed": 169,
+        "sessionGamesWon": 139,
+        "sessionGamesLost": 30,
+        "personalRating": 2055
+      },
+      {
+        "character": {
+          "name": "Brownidough",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 11,
+          "race": 4,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 11005,
+          "thumbnail": "outland/244/82543604-avatar.jpg",
+          "guild": "TRYHARDS",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-druid-restoration",
+            "icon": "spell_nature_healingtouch",
+            "description": "Uses heal-over-time Nature spells to keep allies alive.",
+            "order": 3
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 18,
+        "gamesWon": 15,
+        "gamesLost": 3,
+        "sessionGamesPlayed": 36,
+        "sessionGamesWon": 32,
+        "sessionGamesLost": 4,
+        "personalRating": 1962
+      },
+      {
+        "character": {
+          "name": "Wiggsy",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 3,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 10590,
+          "thumbnail": "outland/71/81874759-avatar.jpg",
+          "guild": "keepin it real",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 4,
+        "gamesWon": 2,
+        "gamesLost": 2,
+        "sessionGamesPlayed": 22,
+        "sessionGamesWon": 19,
+        "sessionGamesLost": 3,
+        "personalRating": 1870
+      }
+    ]
+  },
+  {
+    "realm": "Ravenholdt",
+    "ranking": 33,
+    "rating": 2033,
+    "teamsize": 2,
+    "created": "2012-12-31",
+    "name": "Surprise muthafukka",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 160,
+    "sessionGamesWon": 130,
+    "sessionGamesLost": 30,
+    "lastSessionRanking": 0,
+    "side": "horde",
+    "currentWeekRanking": 2,
+    "members": [
+      {
+        "character": {
+          "name": "Doakes",
+          "realm": "Ravenholdt",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 10,
+          "gender": 0,
+          "level": 85,
+          "achievementPoints": 12705,
+          "thumbnail": "ravenholdt/189/81305277-avatar.jpg",
+          "guild": "LEAD",
+          "spec": {
+            "name": "Discipline",
+            "role": "HEALING",
+            "backgroundImage": "bg-priest-discipline",
+            "icon": "spell_holy_powerwordshield",
+            "description": "Uses magic to shield allies from taking damage as well as heal their wounds.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 134,
+        "sessionGamesWon": 111,
+        "sessionGamesLost": 23,
+        "personalRating": 2041
+      },
+      {
+        "character": {
+          "name": "Rishikishi",
+          "realm": "Ravenholdt",
+          "battlegroup": "Misery",
+          "class": 4,
+          "race": 5,
+          "gender": 0,
+          "level": 85,
+          "achievementPoints": 10630,
+          "thumbnail": "ravenholdt/203/46489035-avatar.jpg",
+          "guild": "Tides of Misery",
+          "spec": {
+            "name": "Subtlety",
+            "role": "DPS",
+            "backgroundImage": "bg-rogue-subtlety",
+            "icon": "ability_stealth",
+            "description": "A dark stalker who leaps from the shadows to ambush her unsuspecting prey.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 143,
+        "sessionGamesWon": 115,
+        "sessionGamesLost": 28,
+        "personalRating": 2025
+      },
+      {
+        "character": {
+          "name": "Wakos",
+          "realm": "Ravenholdt",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 5,
+          "gender": 0,
+          "level": 85,
+          "achievementPoints": 13320,
+          "thumbnail": "ravenholdt/176/74616752-avatar.jpg",
+          "guild": "LEAD",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 25,
+        "sessionGamesWon": 17,
+        "sessionGamesLost": 8,
+        "personalRating": 1903
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 33,
+    "rating": 2033,
+    "teamsize": 2,
+    "created": "2012-12-12",
+    "name": "pff here we go",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 105,
+    "sessionGamesWon": 92,
+    "sessionGamesLost": 13,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 15,
+    "members": [
+      {
+        "character": {
+          "name": "Endalien",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 10,
+          "race": 4,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 7640,
+          "thumbnail": "outland/51/79519539-avatar.jpg",
+          "guild": "IM AN AIRPLANE MEOW MEOW",
+          "spec": {
+            "name": "Mistweaver",
+            "role": "HEALING",
+            "backgroundImage": "bg-monk-mistweaver",
+            "icon": "spell_monk_mistweaver_spec",
+            "description": "A healer who mixes traditional herbal medicine with Pandaren martial arts.",
+            "order": 1
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 104,
+        "sessionGamesWon": 91,
+        "sessionGamesLost": 13,
+        "personalRating": 2046
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 35,
+    "rating": 2032,
+    "teamsize": 2,
+    "created": "2012-08-21",
+    "name": "Ok now",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 70,
+    "sessionGamesWon": 59,
+    "sessionGamesLost": 11,
+    "lastSessionRanking": 0,
+    "side": "horde",
+    "currentWeekRanking": 12,
+    "members": [
+      {
+        "character": {
+          "name": "Evilintent",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 5,
+          "gender": 0,
+          "level": 70,
+          "achievementPoints": 5275,
+          "thumbnail": "outland/149/40898197-avatar.jpg",
+          "guild": "TBC Capped Horde",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 70,
+        "sessionGamesWon": 59,
+        "sessionGamesLost": 11,
+        "personalRating": 2041
+      },
+      {
+        "character": {
+          "name": "Soulbug",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 9,
+          "race": 5,
+          "gender": 0,
+          "level": 70,
+          "achievementPoints": 7780,
+          "thumbnail": "outland/191/73662911-avatar.jpg",
+          "guild": "Sick Sense",
+          "spec": {
+            "name": "Destruction",
+            "role": "DPS",
+            "backgroundImage": "bg-warlock-destruction",
+            "icon": "spell_shadow_rainoffire",
+            "description": "A master of chaos who calls down fire to burn and demolish enemies.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 0,
+        "sessionGamesWon": 0,
+        "sessionGamesLost": 0,
+        "personalRating": 0
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 36,
+    "rating": 2021,
+    "teamsize": 2,
+    "created": "2012-10-24",
+    "name": "Bangbroes goes nutsacc",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 119,
+    "sessionGamesWon": 103,
+    "sessionGamesLost": 16,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 3,
+    "members": [
+      {
+        "character": {
+          "name": "Zanzaa",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 8,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 11580,
+          "thumbnail": "outland/154/67011482-avatar.jpg",
+          "guild": "Svea Livgarde",
+          "spec": {
+            "name": "Frost",
+            "role": "DPS",
+            "backgroundImage": "bg-mage-frost",
+            "icon": "spell_frost_frostbolt02",
+            "description": "Freezes enemies in their tracks and shatters them with Frost magic.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 119,
+        "sessionGamesWon": 103,
+        "sessionGamesLost": 16,
+        "personalRating": 2021
+      },
+      {
+        "character": {
+          "name": "Shockstånd",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 3,
+          "gender": 1,
+          "level": 85,
+          "achievementPoints": 8115,
+          "thumbnail": "outland/225/55143393-avatar.jpg",
+          "guild": "Circus",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 114,
+        "sessionGamesWon": 100,
+        "sessionGamesLost": 14,
+        "personalRating": 2021
+      },
+      {
+        "character": {
+          "name": "Shanza",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 11,
+          "gender": 1,
+          "level": 85,
+          "achievementPoints": 11570,
+          "thumbnail": "outland/201/74755273-avatar.jpg",
+          "guild": "Svea Livgarde",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 0,
+        "sessionGamesWon": 0,
+        "sessionGamesLost": 0,
+        "personalRating": 1000
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 36,
+    "rating": 2021,
+    "teamsize": 2,
+    "created": "2012-10-11",
+    "name": "Dinner for Champions",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 132,
+    "sessionGamesWon": 101,
+    "sessionGamesLost": 31,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 16,
+    "members": [
+      {
+        "character": {
+          "name": "Sevashenka",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 1,
+          "race": 1,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 8185,
+          "thumbnail": "outland/225/74493665-avatar.jpg",
+          "spec": {
+            "name": "Arms",
+            "role": "DPS",
+            "backgroundImage": "bg-warrior-arms",
+            "icon": "ability_warrior_savageblow",
+            "description": "A battle-hardened master of two-handed weapons, using mobility and overpowering attacks to strike her opponents down.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 132,
+        "sessionGamesWon": 101,
+        "sessionGamesLost": 31,
+        "personalRating": 2021
+      }
+    ]
+  },
+  {
+    "realm": "Tarren Mill",
+    "ranking": 38,
+    "rating": 2018,
+    "teamsize": 2,
+    "created": "2013-02-10",
+    "name": "cc is NOT op",
+    "gamesPlayed": 30,
+    "gamesWon": 29,
+    "gamesLost": 1,
+    "sessionGamesPlayed": 103,
+    "sessionGamesWon": 93,
+    "sessionGamesLost": 10,
+    "lastSessionRanking": 0,
+    "side": "horde",
+    "currentWeekRanking": 9,
+    "members": [
+      {
+        "character": {
+          "name": "Psykôpat",
+          "realm": "Tarren Mill",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 10,
+          "gender": 1,
+          "level": 85,
+          "achievementPoints": 11040,
+          "thumbnail": "tarren-mill/82/82098514-avatar.jpg",
+          "guild": "We Are Legendary",
+          "spec": {
+            "name": "Retribution",
+            "role": "DPS",
+            "backgroundImage": "bg-paladin-retribution",
+            "icon": "spell_holy_auraoflight",
+            "description": "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 30,
+        "gamesWon": 29,
+        "gamesLost": 1,
+        "sessionGamesPlayed": 103,
+        "sessionGamesWon": 93,
+        "sessionGamesLost": 10,
+        "personalRating": 2018
+      },
+      {
+        "character": {
+          "name": "Snuggyx",
+          "realm": "Tarren Mill",
+          "battlegroup": "Misery",
+          "class": 8,
+          "race": 8,
+          "gender": 1,
+          "level": 85,
+          "achievementPoints": 7435,
+          "thumbnail": "tarren-mill/57/82190137-avatar.jpg",
+          "guild": "We Are Legendary",
+          "spec": {
+            "name": "Fire",
+            "role": "DPS",
+            "backgroundImage": "bg-mage-fire",
+            "icon": "spell_fire_firebolt02",
+            "description": "Ignite enemies with balls of fire and combustive flames.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 22,
+        "gamesWon": 21,
+        "gamesLost": 1,
+        "sessionGamesPlayed": 22,
+        "sessionGamesWon": 21,
+        "sessionGamesLost": 1,
+        "personalRating": 1891
+      }
+    ]
+  },
+  {
+    "realm": "Grim Batol",
+    "ranking": 39,
+    "rating": 2016,
+    "teamsize": 2,
+    "created": "2012-11-27",
+    "name": "skulled",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 108,
+    "sessionGamesWon": 93,
+    "sessionGamesLost": 15,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 4,
+    "members": [
+      {
+        "character": {
+          "name": "Fortonatos",
+          "realm": "Grim Batol",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 1,
+          "gender": 0,
+          "level": 85,
+          "achievementPoints": 11830,
+          "thumbnail": "grim-batol/176/40497840-avatar.jpg",
+          "guild": "hey im mvp",
+          "spec": {
+            "name": "Discipline",
+            "role": "HEALING",
+            "backgroundImage": "bg-priest-discipline",
+            "icon": "spell_holy_powerwordshield",
+            "description": "Uses magic to shield allies from taking damage as well as heal their wounds.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 108,
+        "sessionGamesWon": 90,
+        "sessionGamesLost": 18,
+        "personalRating": 2011
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 40,
+    "rating": 2015,
+    "teamsize": 2,
+    "created": "2013-01-30",
+    "name": "VINNIE PAZ",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 53,
+    "sessionGamesWon": 47,
+    "sessionGamesLost": 6,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 18,
+    "members": [
+      {
+        "character": {
+          "name": "Rezyhna",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 8,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 7085,
+          "thumbnail": "outland/84/79939668-avatar.jpg",
+          "guild": "Elite Disorder",
+          "spec": {
+            "name": "Frost",
+            "role": "DPS",
+            "backgroundImage": "bg-mage-frost",
+            "icon": "spell_frost_frostbolt02",
+            "description": "Freezes enemies in their tracks and shatters them with Frost magic.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 42,
+        "sessionGamesWon": 37,
+        "sessionGamesLost": 5,
+        "personalRating": 2019
+      },
+      {
+        "character": {
+          "name": "Mørtebianca",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 6570,
+          "thumbnail": "outland/106/82091882-avatar.jpg",
+          "guild": "Elite Disorder",
+          "spec": {
+            "name": "Discipline",
+            "role": "HEALING",
+            "backgroundImage": "bg-priest-discipline",
+            "icon": "spell_holy_powerwordshield",
+            "description": "Uses magic to shield allies from taking damage as well as heal their wounds.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 48,
+        "sessionGamesWon": 42,
+        "sessionGamesLost": 6,
+        "personalRating": 2019
+      }
+    ]
+  },
+  {
+    "realm": "Nemesis",
+    "ranking": 41,
+    "rating": 2009,
+    "teamsize": 2,
+    "created": "2012-10-13",
+    "name": "Drunky Twinky",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 524,
+    "sessionGamesWon": 332,
+    "sessionGamesLost": 192,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 5,
+    "members": [
+      {
+        "character": {
+          "name": "Robysoldier",
+          "realm": "Nemesis",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 0,
+          "level": 85,
+          "achievementPoints": 11040,
+          "thumbnail": "nemesis/72/77094216-avatar.jpg",
+          "guild": "Midnight Måfiå",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 270,
+        "sessionGamesWon": 198,
+        "sessionGamesLost": 72,
+        "personalRating": 2009
+      },
+      {
+        "character": {
+          "name": "Flèalol",
+          "realm": "Nemesis",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 1,
+          "gender": 1,
+          "level": 85,
+          "achievementPoints": 10180,
+          "thumbnail": "nemesis/196/77301700-avatar.jpg",
+          "guild": "Ðelirium Tremens",
+          "spec": {
+            "name": "Discipline",
+            "role": "HEALING",
+            "backgroundImage": "bg-priest-discipline",
+            "icon": "spell_holy_powerwordshield",
+            "description": "Uses magic to shield allies from taking damage as well as heal their wounds.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 475,
+        "sessionGamesWon": 298,
+        "sessionGamesLost": 177,
+        "personalRating": 2009
+      },
+      {
+        "character": {
+          "name": "Pretacaprett",
+          "realm": "Nemesis",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 1,
+          "gender": 1,
+          "level": 85,
+          "achievementPoints": 8240,
+          "thumbnail": "nemesis/192/76983744-avatar.jpg",
+          "guild": "UNITED ØWNERS",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 8,
+        "sessionGamesWon": 8,
+        "sessionGamesLost": 0,
+        "personalRating": 1608
+      }
+    ]
+  },
+  {
+    "realm": "Nemesis",
+    "ranking": 42,
+    "rating": 2007,
+    "teamsize": 2,
+    "created": "2012-11-08",
+    "name": "fghfndr",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 166,
+    "sessionGamesWon": 110,
+    "sessionGamesLost": 56,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 13,
+    "members": [
+      {
+        "character": {
+          "name": "Càgna",
+          "realm": "Nemesis",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 1,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 9060,
+          "thumbnail": "nemesis/126/79101310-avatar.jpg",
+          "guild": "ROMA",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 166,
+        "sessionGamesWon": 110,
+        "sessionGamesLost": 56,
+        "personalRating": 2007
+      },
+      {
+        "character": {
+          "name": "Hølyrage",
+          "realm": "Nemesis",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 0,
+          "level": 70,
+          "achievementPoints": 5585,
+          "thumbnail": "nemesis/38/79068966-avatar.jpg",
+          "guild": "Night Raid",
+          "spec": {
+            "name": "Protection",
+            "role": "TANK",
+            "backgroundImage": "bg-paladin-protection",
+            "icon": "ability_paladin_shieldofthetemplar",
+            "description": "Uses Holy magic to shield himself and defend allies from attackers.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 110,
+        "sessionGamesWon": 72,
+        "sessionGamesLost": 38,
+        "personalRating": 2006
+      },
+      {
+        "character": {
+          "name": "Easylol",
+          "realm": "Nemesis",
+          "battlegroup": "Misery",
+          "class": 8,
+          "race": 1,
+          "gender": 1,
+          "level": 70,
+          "achievementPoints": 5585,
+          "thumbnail": "nemesis/17/79089681-avatar.jpg",
+          "guild": "TNT",
+          "spec": {
+            "name": "Fire",
+            "role": "DPS",
+            "backgroundImage": "bg-mage-fire",
+            "icon": "spell_fire_firebolt02",
+            "description": "Ignite enemies with balls of fire and combustive flames.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 45,
+        "sessionGamesWon": 29,
+        "sessionGamesLost": 16,
+        "personalRating": 1801
+      }
+    ]
+  },
+  {
+    "realm": "Kazzak",
+    "ranking": 43,
+    "rating": 2006,
+    "teamsize": 2,
+    "created": "2013-01-02",
+    "name": "dergf",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 139,
+    "sessionGamesWon": 98,
+    "sessionGamesLost": 41,
+    "lastSessionRanking": 0,
+    "side": "horde",
+    "currentWeekRanking": 3,
+    "members": [
+      {
+        "character": {
+          "name": "Kuksniffer",
+          "realm": "Kazzak",
+          "battlegroup": "Misery",
+          "class": 9,
+          "race": 10,
+          "gender": 1,
+          "level": 84,
+          "achievementPoints": 6580,
+          "thumbnail": "kazzak/254/74479358-avatar.jpg",
+          "guild": "SunDown",
+          "spec": {
+            "name": "Destruction",
+            "role": "DPS",
+            "backgroundImage": "bg-warlock-destruction",
+            "icon": "spell_shadow_rainoffire",
+            "description": "A master of chaos who calls down fire to burn and demolish enemies.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 139,
+        "sessionGamesWon": 98,
+        "sessionGamesLost": 41,
+        "personalRating": 2006
+      },
+      {
+        "character": {
+          "name": "Pernillist",
+          "realm": "Kazzak",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 6,
+          "gender": 0,
+          "level": 80,
+          "achievementPoints": 6580,
+          "thumbnail": "kazzak/239/73592047-avatar.jpg",
+          "guild": "Structure",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 41,
+        "sessionGamesWon": 27,
+        "sessionGamesLost": 14,
+        "personalRating": 1634
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 44,
+    "rating": 2004,
+    "teamsize": 2,
+    "created": "2013-01-23",
+    "name": "Le temps est maintenant",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 37,
+    "sessionGamesWon": 33,
+    "sessionGamesLost": 4,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 20,
+    "members": [
+      {
+        "character": {
+          "name": "Hardseason",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 8,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 9945,
+          "thumbnail": "outland/189/81502653-avatar.jpg",
+          "guild": "Its Prime Time",
+          "spec": {
+            "name": "Frost",
+            "role": "DPS",
+            "backgroundImage": "bg-mage-frost",
+            "icon": "spell_frost_frostbolt02",
+            "description": "Freezes enemies in their tracks and shatters them with Frost magic.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 37,
+        "sessionGamesWon": 33,
+        "sessionGamesLost": 4,
+        "personalRating": 2004
+      },
+      {
+        "character": {
+          "name": "Tholyn",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 3,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 7120,
+          "thumbnail": "outland/138/81923978-avatar.jpg",
+          "guild": "Its Prime Time",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-shaman-restoration",
+            "icon": "spell_nature_magicimmunity",
+            "description": "A healer who calls upon ancestral spirits and the cleansing power of water to mend allies' wounds.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 1,
+        "sessionGamesWon": 1,
+        "sessionGamesLost": 0,
+        "personalRating": 1094
+      }
+    ]
+  },
+  {
+    "realm": "Kazzak",
+    "ranking": 44,
+    "rating": 2004,
+    "teamsize": 2,
+    "created": "2012-12-10",
+    "name": "Nerf This Blizz",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 78,
+    "sessionGamesWon": 62,
+    "sessionGamesLost": 16,
+    "lastSessionRanking": 0,
+    "side": "horde",
+    "currentWeekRanking": 4,
+    "members": [
+      {
+        "character": {
+          "name": "Loßster",
+          "realm": "Kazzak",
+          "battlegroup": "Misery",
+          "class": 8,
+          "race": 5,
+          "gender": 0,
+          "level": 84,
+          "achievementPoints": 13070,
+          "thumbnail": "kazzak/71/80691015-avatar.jpg",
+          "guild": "Fish",
+          "spec": {
+            "name": "Fire",
+            "role": "DPS",
+            "backgroundImage": "bg-mage-fire",
+            "icon": "spell_fire_firebolt02",
+            "description": "Ignite enemies with balls of fire and combustive flames.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 78,
+        "sessionGamesWon": 62,
+        "sessionGamesLost": 16,
+        "personalRating": 1998
+      },
+      {
+        "character": {
+          "name": "Craßz",
+          "realm": "Kazzak",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 5,
+          "gender": 1,
+          "level": 84,
+          "achievementPoints": 7775,
+          "thumbnail": "kazzak/118/80690038-avatar.jpg",
+          "guild": "Fish",
+          "spec": {
+            "name": "Shadow",
+            "role": "DPS",
+            "backgroundImage": "bg-priest-shadow",
+            "icon": "spell_shadow_shadowwordpain",
+            "description": "Uses sinister Shadow magic, especially damage-over-time spells, to eradicate enemies.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 78,
+        "sessionGamesWon": 62,
+        "sessionGamesLost": 16,
+        "personalRating": 1997
+      },
+      {
+        "character": {
+          "name": "Downzthee",
+          "realm": "Kazzak",
+          "battlegroup": "Misery",
+          "class": 1,
+          "race": 26,
+          "gender": 1,
+          "level": 80,
+          "achievementPoints": 15995,
+          "thumbnail": "kazzak/159/77181855-avatar.jpg",
+          "guild": "Ad Nauseam",
+          "spec": {
+            "name": "Protection",
+            "role": "TANK",
+            "backgroundImage": "bg-warrior-protection",
+            "icon": "ability_warrior_defensivestance",
+            "description": "A stalwart protector who uses a shield to safeguard herself and her allies.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 0,
+        "sessionGamesWon": 0,
+        "sessionGamesLost": 0,
+        "personalRating": 1000
+      },
+      {
+        "character": {
+          "name": "Gandhí",
+          "realm": "Kazzak",
+          "battlegroup": "Misery",
+          "class": 10,
+          "race": 26,
+          "gender": 0,
+          "level": 80,
+          "achievementPoints": 13170,
+          "thumbnail": "kazzak/130/78920834-avatar.jpg",
+          "guild": "Ad Nauseam",
+          "spec": {
+            "name": "Mistweaver",
+            "role": "HEALING",
+            "backgroundImage": "bg-monk-mistweaver",
+            "icon": "spell_monk_mistweaver_spec",
+            "description": "A healer who mixes traditional herbal medicine with Pandaren martial arts.",
+            "order": 1
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 0,
+        "sessionGamesWon": 0,
+        "sessionGamesLost": 0,
+        "personalRating": 0
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 44,
+    "rating": 2004,
+    "teamsize": 2,
+    "created": "2013-01-12",
+    "name": "isoa noppailua",
+    "gamesPlayed": 38,
+    "gamesWon": 29,
+    "gamesLost": 9,
+    "sessionGamesPlayed": 168,
+    "sessionGamesWon": 115,
+    "sessionGamesLost": 53,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 39,
+    "members": [
+      {
+        "character": {
+          "name": "Noppatohtori",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 7,
+          "race": 11,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 16260,
+          "thumbnail": "outland/120/81654136-avatar.jpg",
+          "guild": "LADiators",
+          "spec": {
+            "name": "Enhancement",
+            "role": "DPS",
+            "backgroundImage": "bg-shaman-enhancement",
+            "icon": "spell_shaman_improvedstormstrike",
+            "description": "A totemic warrior who strikes foes with weapons imbued with elemental power.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 65,
+        "sessionGamesWon": 35,
+        "sessionGamesLost": 30,
+        "personalRating": 1862
+      },
+      {
+        "character": {
+          "name": "Sylviani",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 8,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 12080,
+          "thumbnail": "outland/32/81654560-avatar.jpg",
+          "guild": "LADiators",
+          "spec": {
+            "name": "Frost",
+            "role": "DPS",
+            "backgroundImage": "bg-mage-frost",
+            "icon": "spell_frost_frostbolt02",
+            "description": "Freezes enemies in their tracks and shatters them with Frost magic.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 15,
+        "gamesWon": 12,
+        "gamesLost": 3,
+        "sessionGamesPlayed": 24,
+        "sessionGamesWon": 18,
+        "sessionGamesLost": 6,
+        "personalRating": 1804
+      },
+      {
+        "character": {
+          "name": "Noppapoliisi",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 12080,
+          "thumbnail": "outland/101/81654117-avatar.jpg",
+          "guild": "LADiators",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 11,
+        "sessionGamesWon": 11,
+        "sessionGamesLost": 0,
+        "personalRating": 1802
+      },
+      {
+        "character": {
+          "name": "Náyiki",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 11,
+          "race": 4,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 8020,
+          "thumbnail": "outland/101/82186085-avatar.jpg",
+          "guild": "LADiators",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-druid-restoration",
+            "icon": "spell_nature_healingtouch",
+            "description": "Uses heal-over-time Nature spells to keep allies alive.",
+            "order": 3
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 15,
+        "gamesWon": 12,
+        "gamesLost": 3,
+        "sessionGamesPlayed": 15,
+        "sessionGamesWon": 12,
+        "sessionGamesLost": 3,
+        "personalRating": 1745
+      }
+    ]
+  },
+  {
+    "realm": "Tarren Mill",
+    "ranking": 47,
+    "rating": 2003,
+    "teamsize": 2,
+    "created": "2013-01-27",
+    "name": "Not for sale",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 115,
+    "sessionGamesWon": 80,
+    "sessionGamesLost": 35,
+    "lastSessionRanking": 0,
+    "side": "horde",
+    "currentWeekRanking": 21,
+    "members": [
+      {
+        "character": {
+          "name": "Celisa",
+          "realm": "Tarren Mill",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 10,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 12380,
+          "thumbnail": "tarren-mill/217/81710041-avatar.jpg",
+          "guild": "GØDMØDE",
+          "spec": {
+            "name": "Holy",
+            "role": "HEALING",
+            "backgroundImage": "bg-paladin-holy",
+            "icon": "spell_holy_holybolt",
+            "description": "Invokes the power of the Light to protect and to heal.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 115,
+        "sessionGamesWon": 80,
+        "sessionGamesLost": 35,
+        "personalRating": 2005
+      },
+      {
+        "character": {
+          "name": "Conflagrate",
+          "realm": "Tarren Mill",
+          "battlegroup": "Misery",
+          "class": 9,
+          "race": 5,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 13045,
+          "thumbnail": "tarren-mill/88/81703768-avatar.jpg",
+          "guild": "GØDMØDE",
+          "spec": {
+            "name": "Destruction",
+            "role": "DPS",
+            "backgroundImage": "bg-warlock-destruction",
+            "icon": "spell_shadow_rainoffire",
+            "description": "A master of chaos who calls down fire to burn and demolish enemies.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 115,
+        "sessionGamesWon": 80,
+        "sessionGamesLost": 35,
+        "personalRating": 2005
+      }
+    ]
+  },
+  {
+    "realm": "Outland",
+    "ranking": 48,
+    "rating": 2002,
+    "teamsize": 2,
+    "created": "2013-02-11",
+    "name": "Winstreak cya",
+    "gamesPlayed": 60,
+    "gamesWon": 50,
+    "gamesLost": 10,
+    "sessionGamesPlayed": 195,
+    "sessionGamesWon": 144,
+    "sessionGamesLost": 51,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 269,
+    "members": [
+      {
+        "character": {
+          "name": "Teszi",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 6,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 10335,
+          "thumbnail": "outland/162/80901794-avatar.jpg",
+          "guild": "Attero Dominatus",
+          "spec": {
+            "name": "Unholy",
+            "role": "DPS",
+            "backgroundImage": "bg-deathknight-unholy",
+            "icon": "spell_deathknight_unholypresence",
+            "description": "A master of death and decay, spreading infection and controlling undead minions to do her bidding.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 60,
+        "gamesWon": 50,
+        "gamesLost": 10,
+        "sessionGamesPlayed": 195,
+        "sessionGamesWon": 144,
+        "sessionGamesLost": 51,
+        "personalRating": 2002
+      },
+      {
+        "character": {
+          "name": "Lovezone",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 5,
+          "race": 4,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 5480,
+          "thumbnail": "outland/191/76009919-avatar.jpg",
+          "guild": "Nephilim",
+          "spec": {
+            "name": "Discipline",
+            "role": "HEALING",
+            "backgroundImage": "bg-priest-discipline",
+            "icon": "spell_holy_powerwordshield",
+            "description": "Uses magic to shield allies from taking damage as well as heal their wounds.",
+            "order": 0
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 57,
+        "gamesWon": 50,
+        "gamesLost": 7,
+        "sessionGamesPlayed": 57,
+        "sessionGamesWon": 50,
+        "sessionGamesLost": 7,
+        "personalRating": 1998
+      },
+      {
+        "character": {
+          "name": "Ebonhawk",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 11,
+          "race": 4,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 7665,
+          "thumbnail": "outland/65/82114369-avatar.jpg",
+          "guild": "Trollbane Representative",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-druid-restoration",
+            "icon": "spell_nature_healingtouch",
+            "description": "Uses heal-over-time Nature spells to keep allies alive.",
+            "order": 3
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 74,
+        "sessionGamesWon": 46,
+        "sessionGamesLost": 28,
+        "personalRating": 1747
+      },
+      {
+        "character": {
+          "name": "Occupied",
+          "realm": "Outland",
+          "battlegroup": "Misery",
+          "class": 11,
+          "race": 22,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 5990,
+          "thumbnail": "outland/17/81592849-avatar.jpg",
+          "guild": "My Little Dudu",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-druid-restoration",
+            "icon": "spell_nature_healingtouch",
+            "description": "Uses heal-over-time Nature spells to keep allies alive.",
+            "order": 3
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 23,
+        "sessionGamesWon": 18,
+        "sessionGamesLost": 5,
+        "personalRating": 1690
+      }
+    ]
+  },
+  {
+    "realm": "Grim Batol",
+    "ranking": 49,
+    "rating": 2001,
+    "teamsize": 2,
+    "created": "2012-10-04",
+    "name": "DAISYBALLS YUM",
+    "gamesPlayed": 0,
+    "gamesWon": 0,
+    "gamesLost": 0,
+    "sessionGamesPlayed": 86,
+    "sessionGamesWon": 63,
+    "sessionGamesLost": 23,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 22,
+    "members": [
+      {
+        "character": {
+          "name": "Vestrum",
+          "realm": "Grim Batol",
+          "battlegroup": "Misery",
+          "class": 2,
+          "race": 1,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 7080,
+          "thumbnail": "grim-batol/40/77845800-avatar.jpg",
+          "guild": "Out on Bail",
+          "spec": {
+            "name": "Retribution",
+            "role": "DPS",
+            "backgroundImage": "bg-paladin-retribution",
+            "icon": "spell_holy_auraoflight",
+            "description": "A righteous crusader who judges and punishes opponents with weapons and Holy magic.",
+            "order": 2
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 86,
+        "sessionGamesWon": 63,
+        "sessionGamesLost": 23,
+        "personalRating": 2008
+      },
+      {
+        "character": {
+          "name": "Reactio",
+          "realm": "Grim Batol",
+          "battlegroup": "Misery",
+          "class": 6,
+          "race": 4,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 4450,
+          "thumbnail": "grim-batol/23/79256855-avatar.jpg",
+          "guild": "Coventry",
+          "spec": {
+            "name": "Frost",
+            "role": "DPS",
+            "backgroundImage": "bg-deathknight-frost",
+            "icon": "spell_deathknight_frostpresence",
+            "description": "An icy harbinger of doom, channeling runic power and delivering vicious weapon strikes.",
+            "order": 1
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 0,
+        "gamesWon": 0,
+        "gamesLost": 0,
+        "sessionGamesPlayed": 0,
+        "sessionGamesWon": 0,
+        "sessionGamesLost": 0,
+        "personalRating": 1000
+      }
+    ]
+  },
+  {
+    "realm": "Kilrogg",
+    "ranking": 49,
+    "rating": 2001,
+    "teamsize": 2,
+    "created": "2012-11-19",
+    "name": "twos init bruv",
+    "gamesPlayed": 11,
+    "gamesWon": 10,
+    "gamesLost": 1,
+    "sessionGamesPlayed": 324,
+    "sessionGamesWon": 233,
+    "sessionGamesLost": 91,
+    "lastSessionRanking": 0,
+    "side": "alliance",
+    "currentWeekRanking": 23,
+    "members": [
+      {
+        "character": {
+          "name": "Nightmasire",
+          "realm": "Kilrogg",
+          "battlegroup": "Misery",
+          "class": 11,
+          "race": 4,
+          "gender": 1,
+          "level": 90,
+          "achievementPoints": 11425,
+          "thumbnail": "kilrogg/133/40868741-avatar.jpg",
+          "guild": "A S C E N D A N C E",
+          "spec": {
+            "name": "Restoration",
+            "role": "HEALING",
+            "backgroundImage": "bg-druid-restoration",
+            "icon": "spell_nature_healingtouch",
+            "description": "Uses heal-over-time Nature spells to keep allies alive.",
+            "order": 3
+          }
+        },
+        "rank": 0,
+        "gamesPlayed": 11,
+        "gamesWon": 10,
+        "gamesLost": 1,
+        "sessionGamesPlayed": 125,
+        "sessionGamesWon": 91,
+        "sessionGamesLost": 34,
+        "personalRating": 2019
+      },
+      {
+        "character": {
+          "name": "Zuix",
+          "realm": "Kilrogg",
+          "battlegroup": "Misery",
+          "class": 9,
+          "race": 1,
+          "gender": 0,
+          "level": 90,
+          "achievementPoints": 7495,
+          "thumbnail": "kilrogg/14/71157262-avatar.jpg",
+          "guild": "A S C E N D A N C E",
+          "spec": {
+            "name": "Destruction",
+            "role": "DPS",
+            "backgroundImage": "bg-warlock-destruction",
+            "icon": "spell_shadow_rainoffire",
+            "description": "A master of chaos who calls down fire to burn and demolish enemies.",
+            "order": 2
+          }
+        },
+        "rank": 1,
+        "gamesPlayed": 11,
+        "gamesWon": 10,
+        "gamesLost": 1,
+        "sessionGamesPlayed": 22,
+        "sessionGamesWon": 20,
+        "sessionGamesLost": 2,
+        "personalRating": 1922
+      }
+    ]
+  }
+]
